@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QGridLayout, QLineEdit, QPushButton
-from model import Calculator  # Импортируем класс Model
+from model import Calculator 
 
 
 class CalculatorWindow(QWidget):
